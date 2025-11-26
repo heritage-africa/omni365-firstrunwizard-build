@@ -39,7 +39,7 @@
     "@nextcloud/typings": "^1.9.1",
     "@nextcloud/vite-config": "^2.5.2",
     "@vue/tsconfig": "^0.8.1",
-    "sass": "^1.92.1",
+    "sass": "^1.94.2",
     "vite": "^7.1.6"
   },
   "engines": {

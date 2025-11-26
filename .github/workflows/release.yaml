@@ -70,4 +70,4 @@ jobs:
           gh release create latest \
             --title "Release" \
             --notes "Automated release" \
-            ./build/artifacts/tasks.tar.gz
+            ./build/artifacts/firstrunwizard.tar.gz

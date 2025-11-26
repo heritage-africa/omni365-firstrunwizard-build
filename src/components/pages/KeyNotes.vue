@@ -6,7 +6,7 @@
 <template>
 	<WizardPage
 		:scroller-classes="scrollerClasses"
-		:title="t('firstrunwizard', 'A collaboration platform that puts you in control')">
+		:title="bonjour">
 		<InfoCard
 			:title="t('firstrunwizard', 'Privacy')"
 			:subtitle="t('firstrunwizard', 'Host your data and files where you decide.')">

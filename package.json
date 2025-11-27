@@ -7,7 +7,7 @@
   "author": "Julius Härtl <jus@bitgrid.net>",
   "type": "module",
   "scripts": {
-    "build": " ls -a js && rm -rf js && vite --mode production build",
+    "build": "vite --mode production build",
     "dev": "vite --mode development build",
     "lint": "eslint --ext .js,.vue src",
     "lint:fix": "eslint --ext .js,.vue src --fix",
